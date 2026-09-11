@@ -236,3 +236,6 @@ This repository serves as the official landing page for WriteMonkey. The softwar
 - 📖 **[Documentation](https://softyne.com/privacy-policy-2/)**
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
+
+---
+**Last updated:** 2026-09-11 14:11:02 UTC
